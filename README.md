@@ -7,4 +7,4 @@ Natural Language Processing. Working with texts on Erysipelas diseases
 
 rozhi.ipynb | tfidf.ipynb
 ------------|------------
-<img src="images/1.jpg" width=300> | <img src="images/2.jpg" width=300>
+<img src="imgs/1.jpg" width=300> | <img src="imgs/2.jpg" width=300>
